@@ -19,6 +19,6 @@
    * OSINT
 * Cracking Passwords
    * Hash Based
-   * Passing The Hash
    * Network Based
+   * Passing The Hash
 
