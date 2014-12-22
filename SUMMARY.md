@@ -16,4 +16,5 @@
        * Analysis
        * Gathering
 * Know Your Target
+* Cracking Passwords
 
