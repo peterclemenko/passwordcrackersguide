@@ -4,6 +4,7 @@
 * [Tools of the Trade](c1-tools/tools_of_the_trade.md)
    * Wordlists
        * Creation
+       * Analysis
    * [Crackers](c1-tools/Crackers.md)
    * Hash Collection
    * Password Reset
