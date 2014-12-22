@@ -18,4 +18,5 @@
 * Know Your Target
    * OSINT
 * Cracking Passwords
+   * Hash Based
 
