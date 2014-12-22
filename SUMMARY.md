@@ -7,8 +7,8 @@
        * Analysis
        * Dictionaries
    * [Crackers](c1-tools/Crackers.md)
-       * GPU
        * CPU
+       * GPU
        * Rainbow Tables
        * Network
    * Hash Collection
