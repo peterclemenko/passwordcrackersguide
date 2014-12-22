@@ -12,6 +12,6 @@
        * GPU
        * Network
        * Rainbow Tables
-   * Analysis
    * Hash Tools
+   * Analysis
 
