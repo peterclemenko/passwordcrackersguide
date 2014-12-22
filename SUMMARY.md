@@ -8,9 +8,9 @@
        * Dictionaries
        * Rainbow Tables
    * [Crackers](c1-tools/Crackers.md)
+       * Rainbow Tables
        * Hash Based
        * Network
-       * Rainbow Tables
    * Hash Tools
        * Analysis
        * Gathering
