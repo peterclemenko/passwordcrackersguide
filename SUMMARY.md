@@ -8,7 +8,6 @@
        * Dictionaries
        * Rainbow Tables
    * [Crackers](c1-tools/Crackers.md)
-       * Rainbow Tables
        * Hash Based
        * Network
    * Hash Tools
