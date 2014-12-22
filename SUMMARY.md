@@ -9,6 +9,7 @@
    * [Crackers](c1-tools/Crackers.md)
        * GPU
        * CPU
+       * Rainbow Tables
    * Hash Collection
    * Password Reset
    * Rainbow Tables
