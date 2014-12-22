@@ -13,6 +13,5 @@
        * Network
        * Rainbow Tables
    * Hash Tools
-   * Password Reset
    * Analysis
 
