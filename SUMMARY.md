@@ -16,5 +16,6 @@
        * Analysis
        * Gathering
 * Know Your Target
+   * OSINT
 * Cracking Passwords
 
