@@ -15,5 +15,5 @@
    * Hash Tools
        * Analysis
        * Gathering
-* OSINT
+* Know Your Target
 
