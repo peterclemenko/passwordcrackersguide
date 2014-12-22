@@ -5,8 +5,8 @@
    * Wordlists
        * Creation
        * Analysis
-       * Rainbow Tables
        * Dictionaries
+       * Rainbow Tables
    * [Crackers](c1-tools/Crackers.md)
        * CPU
        * GPU
