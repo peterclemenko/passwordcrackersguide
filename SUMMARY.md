@@ -10,6 +10,7 @@
        * GPU
        * CPU
        * Rainbow Tables
+       * Network
    * Hash Collection
    * Password Reset
    * Rainbow Tables
