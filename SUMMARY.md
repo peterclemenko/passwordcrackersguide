@@ -6,4 +6,5 @@
    * Hash Collection
    * Wordlists
    * Rainbow Tables
+   * Analysis
 
