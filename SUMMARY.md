@@ -5,6 +5,7 @@
    * Wordlists
        * Creation
        * Analysis
+       * Dictionaries
    * [Crackers](c1-tools/Crackers.md)
    * Hash Collection
    * Password Reset
