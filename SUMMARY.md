@@ -5,7 +5,7 @@
    * [Crackers](c1-tools/Crackers.md)
    * Hash Collection
    * Wordlists
+   * Password Reset
    * Rainbow Tables
    * Analysis
-   * Password Reset
 
