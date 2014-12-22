@@ -1,4 +1,5 @@
 # Summary
 
-* Password Cracker's Handbook
+* [Introduction](README.md)
+* [Password Cracker's Handbook](password_crackers_guide.md)
 
