@@ -7,4 +7,5 @@
    * Wordlists
    * Rainbow Tables
    * Analysis
+   * Password Reset
 
