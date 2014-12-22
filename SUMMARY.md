@@ -5,4 +5,5 @@
    * [Crackers](c1-tools/Crackers.md)
    * Hash Collection
    * Wordlists
+   * Rainbow Tables
 
