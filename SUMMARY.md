@@ -7,6 +7,7 @@
        * Analysis
        * Dictionaries
    * [Crackers](c1-tools/Crackers.md)
+       * GPU
    * Hash Collection
    * Password Reset
    * Rainbow Tables
