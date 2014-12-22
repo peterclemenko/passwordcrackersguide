@@ -1,2 +1,0 @@
-# Password Cracker's Guide
-
