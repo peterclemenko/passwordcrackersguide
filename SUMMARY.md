@@ -9,7 +9,6 @@
        * Rainbow Tables
    * [Crackers](c1-tools/Crackers.md)
        * Hash Based
-       * GPU
        * Network
        * Rainbow Tables
        * CPU/GPU
