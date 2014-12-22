@@ -8,7 +8,7 @@
        * Dictionaries
        * Rainbow Tables
    * [Crackers](c1-tools/Crackers.md)
-       * CPU
+       * Hash Based
        * GPU
        * Network
        * Rainbow Tables
