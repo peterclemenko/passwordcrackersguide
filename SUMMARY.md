@@ -5,6 +5,7 @@
    * Wordlists
        * Creation
        * Analysis
+       * Rainbow Tables
        * Dictionaries
    * [Crackers](c1-tools/Crackers.md)
        * CPU
@@ -13,6 +14,5 @@
        * Network
    * Hash Tools
    * Password Reset
-   * Rainbow Tables
    * Analysis
 
