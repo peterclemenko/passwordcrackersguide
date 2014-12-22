@@ -7,13 +7,13 @@
        * Analysis
        * Dictionaries
        * Rainbow Tables
+   * [Crackers](c1-tools/Crackers.md)
+       * Hash Based
+           * Rainbow Tables
+       * Network
    * Hash Tools
        * Analysis
        * Gathering
-* [Crackers](c1-tools/Crackers.md)
-   * Hash Based
-       * Rainbow Tables
-   * Network
 * Know Your Target
    * OSINT
 * Cracking Passwords
