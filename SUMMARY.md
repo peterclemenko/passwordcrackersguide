@@ -9,6 +9,7 @@
        * Rainbow Tables
    * [Crackers](c1-tools/Crackers.md)
        * Hash Based
+           * Rainbow Tables
        * Network
    * Hash Tools
        * Analysis
