@@ -11,7 +11,7 @@
        * GPU
        * Rainbow Tables
        * Network
-   * Hash Collection
+   * Hash Tools
    * Password Reset
    * Rainbow Tables
    * Analysis
